@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "url": "https://github.com/abdulsaboorkhan2214/thriftnation-updates/releases/download/v1.4.1/thriftnation-1.4.1.zip",
-  "checksum": "1c65de10b6e16a052ae8d1ce12809f343d3a0a21c46b9b5aac7a8cfa814042e2",
+  "version": "1.4.2",
+  "url": "https://github.com/abdulsaboorkhan2214/thriftnation-updates/releases/download/v1.4.2/thriftnation-1.4.2.zip",
+  "checksum": "67d7fc088b1ba851727f46d491750226d7971954af542b29d94f6a6b0fc9de34",
   "requiresNativeBuild": 7,
-  "notes": "Fixes in-app updates. New design and shop-only expenses.",
+  "notes": "Small update check.",
   "apkUrl": ""
 }
