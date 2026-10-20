@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "url": "https://github.com/abdulsaboorkhan2214/thriftnation-updates/releases/download/v1.4.2/thriftnation-1.4.2.zip",
-  "checksum": "67d7fc088b1ba851727f46d491750226d7971954af542b29d94f6a6b0fc9de34",
+  "version": "1.5.0",
+  "url": "https://github.com/abdulsaboorkhan2214/thriftnation-updates/releases/download/v1.5.0/thriftnation-1.5.0.zip",
+  "checksum": "6b279a6ed6c101618a55f7ed14154ae8d60ae3bb9571e2c47bc4feeb630ab5a9",
   "requiresNativeBuild": 7,
-  "notes": "Small update check.",
+  "notes": "Cash in hand, and expenses can be taken from profit or cash in hand",
   "apkUrl": ""
 }
